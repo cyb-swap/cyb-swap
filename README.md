@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/swapnil-shelare-a06b41248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swapnil-shelare-a06b41248" height="30" width="40" /></a>
-<a [![TryHackMe Logo](https://www.tryhackme.com/assets/img/thm-logo.png)](https://tryhackme.com/p/5w4P) /> </a>
+<a href="https://linkedin.com/in/swapnil-shelare-a06b41248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swapnil-shelare-a06b41248" height="30" width="40" /></a>'
+<a href="https://tryhackme.com/p/5w4P" target="blank"><img align="center" src="https://www.tryhackme.com/assets/img/thm-logo.png" alt="5w4P" height="30" width="40"  /> </a>
 </p>
 [![TryHackMe Logo](https://www.tryhackme.com/assets/img/thm-logo.png)](https://tryhackme.com/p/5w4P)
 
